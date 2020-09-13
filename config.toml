@@ -42,7 +42,7 @@ url = "/introduction/"
 
 [params]
 [[menu.main]]
-name = "dummydefinitions"
+name = "dummydefinition"
 weight = 1
 url = "/dummydefinition/"
 
