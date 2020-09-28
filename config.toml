@@ -1,7 +1,7 @@
 baseURL = "https://awesome-perlman-888efe.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "pulp-master"
+theme = "anake"
 
 [build]
 publish = "public"
